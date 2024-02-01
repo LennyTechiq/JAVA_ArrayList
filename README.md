@@ -1,6 +1,6 @@
 # Java ArrayList Project
 
-![Java Logo](link-to-java-logo.png)
+![Java Logo](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png)
 
 This project showcases fundamental concepts and features of the Java programming language through three classes:
 
@@ -12,7 +12,7 @@ This project showcases fundamental concepts and features of the Java programming
 
 ## How to Run the Project
 
-To run the project, ensure you have a [Java Development Kit (JDK)](link-to-jdk-download) installed. Follow these steps:
+To run the project, ensure you have a [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) installed. Follow these steps:
 
 1. Clone or download the project from GitHub.
 2. Open the project folder in your preferred Java IDE or text editor.
