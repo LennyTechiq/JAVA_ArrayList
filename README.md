@@ -1,7 +1,8 @@
 # Java ArrayList Project
 
-![Java Logo](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png)
-
+<p align="center">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java Logo" width="200">
+</p>
 This project showcases fundamental concepts and features of the Java programming language through three classes:
 
 - **CustomArray:** Demonstrates the creation and usage of a custom array data structure using an inner class and an ArrayList. Utilizes constructors, methods, loops, and casting in Java.
